@@ -1,0 +1,55 @@
+html{
+  height: 100%;
+}
+
+body{
+  margin: 0px !important;
+  height: 100%;
+  font-family: sans-serif;
+  background: rgb(12, 0, 29);
+}
+
+div#root{
+  height: 100%;
+}
+
+.container{
+  
+}
+
+.main-grid{
+  display: flex;
+  width: 100% 
+}
+
+.main-grid div{
+  
+}
+
+
+
+.stores{
+  display: flex;
+  flex-direction: column;  
+  
+}
+
+.tasks{
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.tasks button:last-child{
+  
+}
+
+.stores button{
+  
+  margin-bottom: 15%;  
+}
+
+.tasks button{
+  width: 75%;
+  margin-bottom: 15%;   
+}
